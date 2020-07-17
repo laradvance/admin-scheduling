@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/scheduling",
+    "name": "laradvance/admin-scheduling",
     "description": "Task scheduling extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "task", "Scheduling"],
-    "homepage": "https://github.com/laravel-admin-extensions/scheduling",
+    "homepage": "https://github.com/laradvance/admin-scheduling",
     "license": "MIT",
     "authors": [
         {
